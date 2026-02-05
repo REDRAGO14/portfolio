@@ -26,8 +26,8 @@ export default function Footer() {
         {/* Right */}
         <div>
           <h4 className="text-white font-semibold mb-4">Get in Touch</h4>
-          <p className="text-sm">Email: your@email.com</p>
-          <p className="text-sm">Phone: +251...</p>
+          <p className="text-sm">Email: dagimyosef82@email.com</p>
+          <p className="text-sm">Phone: +251957015519</p>
         </div>
       </div>
 

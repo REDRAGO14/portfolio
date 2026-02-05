@@ -17,7 +17,6 @@ export default function App() {
      <Hero />
      <Projects />
      <About />
-     <Skills />
      <Contact />
      <Footer />
     </div>
