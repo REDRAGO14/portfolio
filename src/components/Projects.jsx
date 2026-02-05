@@ -19,7 +19,7 @@ const projects = [
     description: "Personal portfolio to showcase projects, skills, about, history and contact information.",
     img: portfolio,
     skills: ["react", "tailwind css", "javascript"],
-    link: "#",
+    link: "https://dagimyosef.vercel.app/",
   },
   {
     title: "Wayra FC – Official Club Landing Page",
@@ -33,7 +33,7 @@ const projects = [
     description: "Ethio-Movie is a Netflix-inspired web application that fetches and streams media content directly from Telegram channels.",
     img: movie,
     skills: ["HTML", "CSS", "JavaScript"],
-    link: "#",
+    link: "https://ethiomovie-brown.vercel.app/",
   },
 ];
 
