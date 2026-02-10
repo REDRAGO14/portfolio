@@ -81,7 +81,7 @@ export default function About() {
           <TimelineItem
             idx={0}
             side="left"
-            year="2023"
+            year="2024"
             title="Started Web Development"
           >
             I began my journey by learning HTML, CSS, and JavaScript fundamentals.
@@ -93,7 +93,7 @@ export default function About() {
           <TimelineItem
             idx={1}
             side="right"
-            year="2024"
+            year="2026"
             title="Learning React & Modern Frontend"
           >
             I discovered React and learned how to build dynamic interfaces using
@@ -105,7 +105,7 @@ export default function About() {
           <TimelineItem
             idx={2}
             side="left"
-            year="2025"
+            year="2026"
             title="Exploring Backend Development"
           >
             I expanded into backend development with Node.js, Express, and MongoDB.
